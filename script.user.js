@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         FreeBitcoin.Win Martingale Script
-// @namespace    autobet@martingale
+// @namespace    https://themineslash.com
 // @version      1.0
 // @description  This script is made for FreeBitcoin.Win users. This code is betting on dice games using martingale system.
 // @author       MineSlash
 // @match        https://freebitcoin.win/game/dice/*
 // @grant        none
+// @updateURL    https://themineslash.com/stable.user.js
 // ==/UserScript==
 
 
