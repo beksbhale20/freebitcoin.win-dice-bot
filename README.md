@@ -1,9 +1,9 @@
 # FreeBitcoin.Win Dice BOT
-###This is a simple script that automates [FreeBitcoin.Win](https://freebitcoin.win) Dice betting using martingale system.
+### This is a simple script that automates [FreeBitcoin.Win](https://freebitcoin.win) Dice betting using martingale system.
 
 ![Screenshot](https://i.imgur.com/2YjwCt8.png)
 
-##How to use?
+## How to use?
 
 1. Open 'script.js'
 2. Select everything (CTRL+A) and copy (CTRL+C)
@@ -13,4 +13,4 @@
 6. Paste the code and edit the Base bet, the Delay and the High/Low
 7. Enjoy!
 
-#If the website owner prohibits its use then please don't use it.
+# If the website owner prohibits its use then please don't use it.
