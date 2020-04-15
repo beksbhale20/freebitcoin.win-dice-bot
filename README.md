@@ -13,4 +13,4 @@
 6. Paste the code and edit the Base bet, the Delay and the High/Low
 7. Enjoy!
 
-# If the website owner prohibits its use then please don't use it.
+### If the website owner prohibits its use then please don't use it.
