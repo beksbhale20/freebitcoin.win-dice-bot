@@ -4,7 +4,13 @@
 ![Screenshot](https://i.imgur.com/2YjwCt8.png)
 
 ## How to use?
+### Recommended method:
+1. Install Tampermonkey to your browser
+2. Click -> [Install](https://github.com/MineSlash/freebitcoin.win-dice-bot/raw/master/script.user.js)
+3. Edit Base bet, the Delay and the High/Low
+4. Enjoy!
 
+### Regular method:
 1. Open 'script.js'
 2. Select everything (CTRL+A) and copy (CTRL+C)
 3. Go to the [FreeBitcoin.Win](https://freebitcoin.win) website
